@@ -15,4 +15,3 @@ git clone https://github.com/cloudacademy/static-website-example /var/www/webPru
 sudo chown -R www-data:www-data /var/www/
 sudo chmod -R 775 /var/www/
 
-
